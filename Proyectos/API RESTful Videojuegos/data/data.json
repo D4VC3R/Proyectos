@@ -1,0 +1,150 @@
+    [
+        {
+            "titulo": "The Witcher 3: Wild Hunt",
+            "desarrollador": "CD Projekt Red",
+            "publisher": "CD Projekt",
+            "fechaLanzamiento": "2015-05-19",
+            "plataformas": [
+                "PC",
+                "PS4",
+                "Xbox One",
+                "Switch"
+            ],
+            "genero": "RPG",
+            "descripcion": "Un épico RPG de mundo abierto donde encarnas al brujo Geralt de Rivia en busca de su hija adoptiva.",
+            "duracion": 51
+        },
+        {
+            "titulo": "Hollow Knight",
+            "desarrollador": "Team Cherry",
+            "publisher": "Team Cherry",
+            "fechaLanzamiento": "2017-02-24",
+            "plataformas": [
+                "PC",
+                "Switch",
+                "PS4",
+                "Xbox"
+            ],
+            "genero": "Metroidvania",
+            "descripcion": "Explora un vasto mundo subterráneo repleto de insectos, desafíos y secretos en este desafiante metroidvania.",
+            "duracion": 26
+        },
+        {
+            "titulo": "God of War Ragnarok",
+            "desarrollador": "Santa Monica Studio",
+            "publisher": "Sony Interactive Entertainment",
+            "fechaLanzamiento": "2022-11-09",
+            "plataformas": [
+                "PS4",
+                "PS5"
+            ],
+            "genero": "Acción/Aventura",
+            "descripcion": "Kratos y Atreus se enfrentan al apocalipsis nórdico mientras exploran los nueve reinos.",
+            "duracion": 25
+        },
+        {
+            "titulo": "Red Dead Redemption 2",
+            "desarrollador": "Rockstar Games",
+            "publisher": "Rockstar Games",
+            "fechaLanzamiento": "2018-10-26",
+            "plataformas": [
+                "PC",
+                "PS4",
+                "Xbox One"
+            ],
+            "genero": "Acción/Aventura",
+            "descripcion": "Sigue la historia de Arthur Morgan, forajido del viejo oeste, en un mundo vivo y detallado.",
+            "duracion": 49
+        },
+        {
+            "titulo": "Hades",
+            "desarrollador": "Supergiant Games",
+            "publisher": "Supergiant Games",
+            "fechaLanzamiento": "2020-09-17",
+            "plataformas": [
+                "PC",
+                "Switch",
+                "PS4",
+                "PS5",
+                "Xbox"
+            ],
+            "genero": "Roguelike",
+            "descripcion": "Zagreus, hijo de Hades, lucha por escapar del inframundo en este frenético roguelike.",
+            "duracion": 22
+        },
+        {
+            "titulo": "Celeste",
+            "desarrollador": "Matt Makes Games",
+            "publisher": "Matt Makes Games",
+            "fechaLanzamiento": "2018-01-25",
+            "plataformas": [
+                "PC",
+                "Switch",
+                "PS4",
+                "Xbox"
+            ],
+            "genero": "Plataformas",
+            "descripcion": "Ayuda a Madeline a escalar la montaña Celeste en un juego desafiante y emocional.",
+            "duracion": 8
+        },
+        {
+            "titulo": "Resident Evil 4 Remake",
+            "desarrollador": "Capcom",
+            "publisher": "Capcom",
+            "fechaLanzamiento": "2023-03-24",
+            "plataformas": [
+                "PC",
+                "PS5",
+                "Xbox Series"
+            ],
+            "genero": "Survival Horror",
+            "descripcion": "Leon S. Kennedy regresa en una reinterpretación moderna del clásico survival horror.",
+            "duracion": 16
+        },
+        {
+            "titulo": "Stardew Valley",
+            "desarrollador": "ConcernedApe",
+            "publisher": "ConcernedApe",
+            "fechaLanzamiento": "2016-02-26",
+            "plataformas": [
+                "PC",
+                "Switch",
+                "PS4",
+                "Xbox",
+                "Mobile"
+            ],
+            "genero": "Simulación",
+            "descripcion": "Transforma una vieja granja en un paraíso agrícola, mientras forjas relaciones con los habitantes del pueblo.",
+            "duracion": 53
+        },
+        {
+            "titulo": "DOOM Eternal",
+            "desarrollador": "id Software",
+            "publisher": "Bethesda Softworks",
+            "fechaLanzamiento": "2020-03-20",
+            "plataformas": [
+                "PC",
+                "PS4",
+                "PS5",
+                "Xbox",
+                "Switch"
+            ],
+            "genero": "FPS",
+            "descripcion": "Destruye demonios sin piedad con un arsenal brutal en esta frenética secuela de DOOM.",
+            "duracion": 12
+        },
+        {
+            "titulo": "Undertale",
+            "desarrollador": "Toby Fox",
+            "publisher": "Toby Fox",
+            "fechaLanzamiento": "2015-09-15",
+            "plataformas": [
+                "PC",
+                "Switch",
+                "PS4"
+            ],
+            "genero": "RPG",
+            "descripcion": "Una aventura única donde puedes decidir si pelear o hacer amigos con los monstruos.",
+            "duracion": 6
+        }
+    ]

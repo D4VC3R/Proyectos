@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&family=Orbitron:wght@400..900&display=swap');
+body {
+    background: black;
+    margin: 0;
+    place-content: center;
+    height: 100vh;
+    display: grid;
+}
+
+canvas {
+    border: 1px solid white;
+}
+
+span {
+    color: white;
+    font-family: 'Orbitron'
+}
+
+#top3 {
+    font-family: 'Orbitron';
+    resize: both;
+    overflow: auto;
+    margin: 0 auto 20 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.7);
+    min-width: 200px;
+    min-height: 80px;
+    max-width: 90vw;
+    box-sizing: border-box;
+}
+
+#top3 h3 {
+    color: #ffe600;
+    font-weight: bold;
+    text-align: center;
+    font-style: oblique;
+    margin: 20px 20 8px 0;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
+#top3 .score {
+    color: white;
+    font-size: 18px;
+    margin: 4px; }
+    
